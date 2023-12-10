@@ -6,44 +6,44 @@ class Mytest extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final toptest = Text(
-      'あなたの寿命は？？？',
+      'HOW LONG LIFE TIME???',
       style: TextStyle(
         fontSize: 30,
         decoration: TextDecoration.underline,
       ),
     );
     final year = Text(
-      '60年',
+      '60YEAR',
       style: TextStyle(
         fontFamily: 'LgD',
         fontSize: 50,
       ),
     );
     final day = Text(
-      '3000日',
+      '3000DAY',
       style: TextStyle(
-        fontFamily: 'LgD', // 追加: フォントファミリーを指定
+        fontFamily: 'LgD',
         fontSize: 50,
       ),
     );
     final hour = Text(
-      '546534098時間',
+      '546534098HOUR',
       style: TextStyle(
-        fontFamily: 'LgD', // 追加: フォントファミリーを指定
+        fontFamily: 'LgD',
         fontSize: 50,
       ),
     );
     final minute = Text(
       '45:',
       style: TextStyle(
-        fontFamily: 'LgD', // 追加: フォントファミリーを指定
+        fontFamily: 'LgD',
         fontSize: 50,
       ),
     );
     final sec = Text(
       '23',
       style: TextStyle(
-        fontFamily: 'LgD', // 追加: フォントファミリーを指定
+        fontFamily: 'LgD',
         fontSize: 50,
       ),
     );
